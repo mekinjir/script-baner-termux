@@ -2,15 +2,10 @@
 
 # <span style="color: #00FFFF;">Termux Cyber Banner Manager</span>
 
-![Status](https://img.shields.io/badge/Status-Active-success?style=for-the-badge)
-![Author](https://img.shields.io/badge/Author-mekinjir-blue?style=for-the-badge)
-![Platform](https://img.shields.io/badge/Platform-Termux-black?style=for-the-badge&logo=android)
-![License](https://img.shields.io/badge/License-MIT-yellow?style=for-the-badge)
-
 <br>
 
-[![TikTok](https://img.shields.io/badge/TikTok-@meki__real-black?style=for-the-badge&logo=tiktok&logoColor=white)](https://www.tiktok.com/@meki_real)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-Chat_Now-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/6285804039219)
+[![TikTok](https://img.shields.io/badge/TikTok-black?style=for-the-badge&logo=tiktok&logoColor=white)](https://www.tiktok.com/@meki_real)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/6285804039219)
 
 </div>
 
