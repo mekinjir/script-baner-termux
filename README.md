@@ -29,7 +29,7 @@ Script kustomisasi tampilan Termux dengan tema **Cyber Security**. Dilengkapi de
 ## 🛠️ Cara Instalasi
 
 ```bash
-bash <(curl -sL https://raw.githubusercontent.com/mekinjir/script-baner-termux/refs/heads/main/baner.sh)
+bash <(curl -sL https://raw.githubusercontent.com/mekinjir/script-baner-termux/refs/heads/main/script/baner.sh)
 ```
 
 <br>
