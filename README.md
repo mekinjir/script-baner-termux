@@ -14,8 +14,10 @@
 Script kustomisasi tampilan Termux dengan tema **Cyber Security**. Dilengkapi dengan menu installer dan uninstaller interaktif yang memudahkan pengguna untuk memasang atau menghapus banner kustom.
 
 ## 📸 Preview
-*(Ganti link di bawah ini dengan link foto screenshot Termux kamu)*
-![Preview Banner](https://via.placeholder.com/800x400/000000/00FF00?text=Taruh+Screenshot+Termux+Disini)
+
+<!-- 👇👇 INI TEMPAT SETTING FOTONYA 👇👇 -->
+<!-- Ganti tulisan di dalam kurung () dengan link gambar kamu -->
+![Preview Banner](TARUH_LINK_FOTO_DI_SINI)
 
 ## ✨ Fitur Utama
 - **Efek Matrix**: Animasi latar belakang (warna menyesuaikan tema).
