@@ -16,7 +16,7 @@ Script kustomisasi tampilan Termux dengan tema **Cyber Security**. Dilengkapi de
 ## 📸 Preview
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/170659918/280443145-5765523a-4237-4a52-92a7-5703f5a1e8f0.png" width="400" alt="Preview Banner MEKI">
+  <img src="https://files.catbox.moe/ifsn0y.png" width="400" alt="Preview Banner MEKI">
 </div>
 
 ## ✨ Fitur Utama
@@ -30,3 +30,14 @@ Script kustomisasi tampilan Termux dengan tema **Cyber Security**. Dilengkapi de
 
 ```bash
 bash <(curl -sL https://raw.githubusercontent.com/mekinjir/script-baner-termux/refs/heads/main/baner.sh)
+```
+
+<br>
+
+---
+
+<div align="center">
+
+<i>Created with ❤️ by <a href="https://github.com/mekinjir">mekinjir</a></i>
+
+</div>
