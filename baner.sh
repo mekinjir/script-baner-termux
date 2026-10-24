@@ -83,6 +83,7 @@ echo -e "${COLOR_CODE}[*] Menginstall dependencies (Mohon Tunggu)...\033[0m"
 pkg update -y > /dev/null 2>&1
 pkg install figlet cmatrix ncurses-utils -y > /dev/null 2>&1
 
+# --- BIKIN SCRIPT UI (DENGAN LOADING SCREEN) ---
 cat << 'EOF' > ~/.termux_ui.sh
 #!/data/data/com.termux/files/usr/bin/bash
 
@@ -94,7 +95,18 @@ NC='\033[0m'
 
 clear
 echo -e "\n"
-timeout 1 cmatrix -C $MATRIX -s
+echo -e "${COLOR}Initializing Secure Node...${NC}"
+sleep 0.5
+# Matrix 2 detik biar pasti kelihatan
+timeout 2 cmatrix -C $MATRIX -s
+clear
+echo -e "\n"
+
+# Fake Loading Bar Cyber
+echo -ne "${COLOR}[*] Loading Interface ["
+for i in {1..15}; do echo -ne "█"; sleep 0.05; done
+echo -e "] 100%${NC}"
+sleep 0.4
 clear
 echo -e "\n"
 
@@ -121,16 +133,21 @@ EOF
 
 chmod +x ~/.termux_ui.sh
 
+# Daftarkan ke bashrc
 sed -i '/.termux_ui.sh/d' ~/.bashrc
 sed -i '/PS1=.*/d' ~/.bashrc
-
 echo "~/.termux_ui.sh" >> ~/.bashrc
 echo "PS1='\[$COLOR_CODE\]❯ \[\033[0m\]'" >> ~/.bashrc
 echo "source ~/.bashrc" > ~/.bash_profile
 
+# Matikan pengaman
 trap - 2
 
-echo -e "\n${COLOR_CODE}========================================${NC}"
+echo -e "\n${COLOR_CODE}========================================\033[0m"
 echo -e "${COLOR_CODE}   [+] INSTALASI BERHASIL, $U_NAME!\033[0m"
-echo -e "${COLOR_CODE}   [+] Silakan tutup dan buka Termux.\033[0m"
-echo -e "${COLOR_CODE}========================================${NC}"
+echo -e "${COLOR_CODE}   [+] Menampilkan Hasil...\033[0m"
+echo -e "${COLOR_CODE}========================================\033[0m"
+sleep 1
+
+# --- PANGGIL TAMPILAN LANGSUNG DI SINI ---
+bash ~/.termux_ui.sh
