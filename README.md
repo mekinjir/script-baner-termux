@@ -5,24 +5,24 @@
 ![Status](https://img.shields.io/badge/Status-Active-success?style=for-the-badge)
 ![Author](https://img.shields.io/badge/Author-mekinjir-blue?style=for-the-badge)
 ![Platform](https://img.shields.io/badge/Platform-Termux-black?style=for-the-badge&logo=android)
+![License](https://img.shields.io/badge/License-MIT-yellow?style=for-the-badge)
 
 </div>
 
 Script kustomisasi tampilan Termux dengan tema **Cyber Security**. Dilengkapi dengan menu installer dan uninstaller yang memudahkan pengguna untuk memasang atau menghapus banner.
 
-## <span style="color: #00FF00;">✨ Fitur Utama</span>
-- **Efek Matrix**: Animasi latar belakang yang menyesuaikan warna tema.
-- **Banner ASCII**: Tulisan nama besar yang otomatis di tengah layar.
-- **6 Pilihan Warna**: 
-  - <span style="color: #00FF00;">Hijau (Hacker)</span>
-  - <span style="color: #FF0000;">Merah (Blood)</span>
-  - <span style="color: #00FFFF;">Cyan (Futuristic)</span>
-  - <span style="color: #FF00FF;">Ungu (Vaporwave)</span>
-  - <span style="color: #0000FF;">Biru (Deep Web)</span>
-  - <span style="color: #FFFF00;">Kuning (Warning)</span>
-- **Menu Interaktif**: Bisa dipasang dan dihapus langsung dari dalam Termux.
+## 📸 Preview
+*(Ganti link di bawah ini dengan link foto screenshot Termux kamu)*
+![Preview Banner](https://via.placeholder.com/800x400/000000/00FF00?text=Taruh+Foto+Screenshot+Termux+Disini)
 
-## <span style="color: #00FFFF;">🛠️ Cara Instalasi</span>
+## ✨ Fitur Utama
+- **Efek Matrix**: Animasi latar belakang (warna menyesuaikan tema).
+- **Banner ASCII**: Tulisan nama besar otomatis di tengah layar.
+- **6 Pilihan Warna**: Hijau, Merah, Cyan, Ungu, Biru, Kuning.
+- **Menu Interaktif**: Dilengkapi opsi untuk Install dan Uninstall (Hapus Banner).
+- **Anti-Error**: Dilengkapi pengaman `CTRL + C` agar tidak nge-hang.
+
+## 🛠️ Cara Instalasi
 
 Buka aplikasi Termux, lalu jalankan perintah berikut:
 
