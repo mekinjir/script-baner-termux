@@ -7,13 +7,20 @@
 ![Platform](https://img.shields.io/badge/Platform-Termux-black?style=for-the-badge&logo=android)
 ![License](https://img.shields.io/badge/License-MIT-yellow?style=for-the-badge)
 
+<br>
+
+[![TikTok](https://img.shields.io/badge/TikTok-@meki__real-black?style=for-the-badge&logo=tiktok&logoColor=white)](https://www.tiktok.com/@meki_real)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-Chat_Now-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/6285804039219)
+
 </div>
 
-Script kustomisasi tampilan Termux dengan tema **Cyber Security**. Dilengkapi dengan menu installer dan uninstaller yang memudahkan pengguna untuk memasang atau menghapus banner.
+---
+
+Script kustomisasi tampilan Termux dengan tema **Cyber Security**. Dilengkapi dengan menu installer dan uninstaller interaktif yang memudahkan pengguna untuk memasang atau menghapus banner kustom.
 
 ## 📸 Preview
 *(Ganti link di bawah ini dengan link foto screenshot Termux kamu)*
-![Preview Banner](https://via.placeholder.com/800x400/000000/00FF00?text=Taruh+Foto+Screenshot+Termux+Disini)
+![Preview Banner](https://via.placeholder.com/800x400/000000/00FF00?text=Taruh+Screenshot+Termux+Disini)
 
 ## ✨ Fitur Utama
 - **Efek Matrix**: Animasi latar belakang (warna menyesuaikan tema).
