@@ -16,7 +16,7 @@ Script kustomisasi tampilan Termux dengan tema **Cyber Security**. Dilengkapi de
 ## 📸 Preview
 
 <div align="center">
-  <div style="width: 400px; height: 500px; background-image: url('https://files.catbox.moe/ifsn0y.png'); background-size: contain; background-repeat: no-repeat; background-position: center; pointer-events: none;"></div>
+  <img src="https://files.catbox.moe/ifsn0y.png" width="400" alt="Preview Banner MEKI">
 </div>
 
 ## ✨ Fitur Utama
