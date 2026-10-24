@@ -16,19 +16,17 @@ Script kustomisasi tampilan Termux dengan tema **Cyber Security**. Dilengkapi de
 ## 📸 Preview
 
 <div align="center">
-  <img src="https://files.catbox.moe/ifsn0y.png" width="400" alt="Preview Banner MEKI">
+  <img src="https://user-images.githubusercontent.com/170659918/280443145-5765523a-4237-4a52-92a7-5703f5a1e8f0.png" width="400" alt="Preview Banner MEKI">
 </div>
 
 ## ✨ Fitur Utama
 - **Efek Matrix**: Animasi latar belakang (warna menyesuaikan tema).
 - **Banner ASCII**: Tulisan nama besar otomatis di tengah layar.
 - **6 Pilihan Warna**: Hijau, Merah, Cyan, Ungu, Biru, Kuning.
-- **Menu Interaktif**: Dilengkapi opsi untuk Install dan Uninstall (Hapus Banner).
+- **Menu Interaktif**: Dilengkapi opsi untuk Install dan Uninstall.
 - **Anti-Error**: Dilengkapi pengaman `CTRL + C` agar tidak nge-hang.
 
 ## 🛠️ Cara Instalasi
-
-Buka aplikasi Termux, lalu jalankan perintah berikut:
 
 ```bash
 bash <(curl -sL https://raw.githubusercontent.com/mekinjir/script-baner-termux/refs/heads/main/baner.sh)
