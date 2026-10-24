@@ -15,9 +15,9 @@ Script kustomisasi tampilan Termux dengan tema **Cyber Security**. Dilengkapi de
 
 ## 📸 Preview
 
-<!-- 👇👇 INI TEMPAT SETTING FOTONYA 👇👇 -->
-<!-- Ganti tulisan di dalam kurung () dengan link gambar kamu -->
-![Preview Banner]([TARUH_LINK_FOTO_DI_SINI](https://files.catbox.moe/ifsn0y.pn)
+<div align="center">
+  <img src="https://files.catbox.moe/ifsn0y.png" width="400" alt="Preview Banner MEKI">
+</div>
 
 ## ✨ Fitur Utama
 - **Efek Matrix**: Animasi latar belakang (warna menyesuaikan tema).
